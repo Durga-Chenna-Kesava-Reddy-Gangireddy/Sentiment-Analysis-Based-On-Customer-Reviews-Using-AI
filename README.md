@@ -1,11 +1,10 @@
-# **Restaurant-Review-Sentiment-Analysis**
-## **Predicting Restaurant Review Sentiment**
-### Web APP on Heroku
+# **Reference-Model-For-Sentiment-Analysis-Based-On-Customer-Reviews-Using-AI**
+## **Predicting Restaurant Review Sentiment or Customer Feedback**
 
-<img src="![image](https://github.com/user-attachments/assets/b5e36f7c-145d-4cbb-a377-4cd780463a44)
+<img src="https://github.com/user-attachments/assets/b5e36f7c-145d-4cbb-a377-4cd780463a44
 " width="600">
 
-### **[The Project on Heroku](https://restaurantreviewsentiment.herokuapp.com/)**
+
 
 ---
 ## **Understanding The Project**
