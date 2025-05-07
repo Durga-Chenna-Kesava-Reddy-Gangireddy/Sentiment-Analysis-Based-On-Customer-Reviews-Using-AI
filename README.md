@@ -1,14 +1,11 @@
 # **Reference-Model-For-Sentiment-Analysis-Based-On-Customer-Reviews-Using-AI**
 ## **Predicting Restaurant Review Sentiment or Customer Feedback**
 
-<img src="https://github.com/user-attachments/assets/b5e36f7c-145d-4cbb-a377-4cd780463a44
+<img src="![image](https://github.com/user-attachments/assets/b5e36f7c-145d-4cbb-a377-4cd780463a44)
 " width="600">
 
-
-
----
 ## **Understanding The Project**
-
+---
 ### **The Dataset**
 ***
 ![Dataset](https://github.com/manthanpatel98/Restaurant-Review-Sentiment-Analysis/blob/master/README-Resources/Screenshot%20(96).png)
